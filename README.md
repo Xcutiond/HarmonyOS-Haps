@@ -37,7 +37,7 @@
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [小白调试助手2.0](https://github.com/likuai2010/auto-installer) | [Link](https://github.com/likuai2010/auto-installer/releases/tag/2.0.0) | Auto-Installer是基于开源OpenHarmony项目的Hdc工具。该项目致力于为简化开发调试体验。我们正在积极开发中，以满足鸿蒙开发者随时调试应用需求。 | 03-31 |
 | [ClashBox](https://github.com/xiaobaigroup/hapapp) | [Link](https://github.com/xiaobaigroup/hapapp/releases) | HarmonyOS Next 首款GoLang开源移植应用 仅学习使用 | 05-22|
-| [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 使用 flutter 开发的基于自定义规则的番剧采集与在线观看程序。使用最多五行基于 Xpath 语法的选择器构建自己的规则。支持规则导入与规则分享。绝赞开发中 (～￣▽￣)～ | 09-19 |
+| [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 使用 flutter 开发的基于自定义规则的番剧采集与在线观看程序。使用最多五行基于 Xpath 语法的选择器构建自己的规则。支持规则导入与规则分享。绝赞开发中 (～￣▽￣)～ | 09-25 |
 | [轻阅读](https://github.com/autobcb/read) | [Link](https://github.com/autobcb/read/releases) | 一个全移动端可用的阅读app,不管是手机还是大屏设备都适配了ui，这个仓库是轻阅读app服务端源码，可以在全端同步进度。 | 09-15 |
 | [Wake](https://github.com/azhuge233/Wake-HarmonyOS) | [Link](https://github.com/azhuge233/Wake-HarmonyOS/releases) | 简单的 Wake-on-LAN 应用程序，适用于 HarmonyOS NEXT | 09-13 |
 | [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | Liny 的浏览器为 HarmonyOS NEXT 而构建，旨在为各种性能水平的设备提供一个浏览器的轻量之选。 | 09-13 |
