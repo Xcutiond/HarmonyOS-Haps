@@ -37,7 +37,6 @@
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [小白调试助手2.0](https://github.com/likuai2010/auto-installer) | [Link](https://github.com/likuai2010/auto-installer/releases/tag/2.0.0) | Auto-Installer是基于开源OpenHarmony项目的Hdc工具。该项目致力于为简化开发调试体验。我们正在积极开发中，以满足鸿蒙开发者随时调试应用需求。 | 03-31 |
 | [ClashBox](https://github.com/xiaobaigroup/hapapp) | [Link](https://github.com/xiaobaigroup/hapapp/releases) | HarmonyOS Next 首款GoLang开源移植应用 仅学习使用 | 05-22|
-| [Melotopia](https://github.com/Chenlvin/Melotopia-HMOS) | [Link](https://github.com/Chenlvin/Melotopia-HMOS/releases) | ✨ 鸿蒙原生音乐播放器｜🚀 全场景设备适配 本项目为第三方应用, 应用本身不提供在线服务, 仅提供UI界面 | 12-14 |
 | [开源阅读](https://github.com/mgz0227/legado-Harmony) | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 开源阅读鸿蒙版仓库 | 11-30 |
 | [Harmonic](https://github.com/shanyan-wcx/Harmonic) | [Link](https://github.com/shanyan-wcx/Harmonic/releases) | Navidrome的鸿蒙Next客户端，适配手机、平板、车机。<br />（理论上兼容所有使用Subsonic Api的服务端，未经测试。） | 10-26 |
 | [千维验证器](https://github.com/kdada/Authenticator) | [Link](https://github.com/kdada/Authenticator/releases) | 双因子认证（2FA）密码生成工具，支持 GitHub，Microsoft，Google 等站点的标准令牌，额外支持 Steam 5 位令牌。 | 08-25 |
@@ -50,7 +49,8 @@
 | [云享社](https://github.com/Edge-Music/Core) | [Link](https://github.com/Edge-Music/Core/releases) | 这是一个基于鸿蒙HarmonyOS Next API 15版本全新重构开发的网络音乐播放器统一UI容器。2.0版本带来了惊艳的UI设计和革命性的数据源架构，支持连接多个平台和私有数据源。我们致力于提供流畅的原生体验，同时保留并增强您喜爱的所有功能！ | 04-30 |
 | [localsend-ohos](https://github.com/Aloereed/localsend-ohos) | [Link](https://github.com/Aloereed/localsend-ohos/releases) | An open-source cross-platform alternative to AirDrop for HarmonyOS Next - Aloereed/localsend-ohos | 04-15 |
 | [moonlight-ohos](https://gitee.com/smdsbz/moonlight-ohos) | [Link](https://gitee.com/smdsbz/moonlight-ohos/releases) | 在 HarmonyOS Next 上的另一个 Sunshine 客户端实现。 | 04-03 |
-| [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 使用 flutter 开发的基于自定义规则的番剧采集与在线观看程序。使用最多五行基于 Xpath 语法的选择器构建自己的规则。支持规则导入与规则分享。绝赞开发中 (～￣▽￣)～ | 02-09 |
+| [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 使用 flutter 开发的基于自定义规则的番剧采集与在线观看程序。使用最多五行基于 Xpath 语法的选择器构建自己的规则。支持规则导入与规则分享。绝赞开发中 (～￣▽￣)～ | 02-16 |
+| [Melotopia](https://github.com/Chenlvin/Melotopia-HMOS) | [Link](https://github.com/Chenlvin/Melotopia-HMOS/releases) | ✨ 鸿蒙原生音乐播放器｜🚀 全场景设备适配 本项目为第三方应用, 应用本身不提供在线服务, 仅提供UI界面 | 02-14 |
 | [Audiobookshelf](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS) | [Link](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS/releases) | Audiobookshelf的鸿蒙Next客户端。<br/>当前仅支持有声书，不支持播客。 | 02-06 |
 | [Wake](https://github.com/azhuge233/Wake-HarmonyOS) | [Link](https://github.com/azhuge233/Wake-HarmonyOS/releases) | 简单的 Wake-on-LAN 应用程序，适用于 HarmonyOS NEXT | 02-03 |
 | [轻阅读](https://github.com/autobcb/read) | [Link](https://github.com/autobcb/read/releases) | 一个全移动端可用的阅读app,不管是手机还是大屏设备都适配了ui，这个仓库是轻阅读app服务端源码，可以在全端同步进度。 | 01-31 |
