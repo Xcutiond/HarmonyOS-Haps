@@ -53,7 +53,7 @@
 | [Melotopia](https://github.com/Chenlvin/Melotopia-HMOS) | [Link](https://github.com/Chenlvin/Melotopia-HMOS/releases) | ✨ 鸿蒙原生音乐播放器｜🚀 全场景设备适配 本项目为第三方应用, 应用本身不提供在线服务, 仅提供UI界面 | 04-15 |
 | [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 一个支持免代理直连及查看动图的OpenHarmony平台第三方Pixiv flutter客户端 | 04-08 |
 | [moonlight-ohos](https://gitee.com/smdsbz/moonlight-ohos) | [Link](https://gitee.com/smdsbz/moonlight-ohos/releases) | 在 HarmonyOS Next 上的另一个 Sunshine 客户端实现。 | 04-03 |
-| [开源阅读](https://github.com/mgz0227/legado-Harmony) | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 开源阅读鸿蒙版仓库 | 03-13 |
+| [开源阅读](https://github.com/mgz0227/legado-Harmony) | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 开源阅读鸿蒙版仓库 | 03-11 |
 | [Audiobookshelf](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS) | [Link](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS/releases) | Audiobookshelf的鸿蒙Next客户端。<br/>当前仅支持有声书，不支持播客。 | 02-06 |
 | [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | Liny 的浏览器为 HarmonyOS NEXT 而构建，旨在为各种性能水平的设备提供一个浏览器的轻量之选。 | 01-30 |
 | [aria2-ohos](https://github.com/SwimmingTiger/aria2-ohos) | [Link](https://github.com/SwimmingTiger/aria2-ohos/releases) | 鸿蒙PC上的命令行版 Aria2（aria2c） | 01-20 |
