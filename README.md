@@ -44,10 +44,11 @@
 | [S1-Orange](https://github.com/wly5556/S1-Orange) | [Link](https://github.com/wly5556/S1-Orange/releases/) | 专为鸿蒙Next开发的 stage1st.com 移动客户端 | 07-30 |
 | [微型课程表](https://github.com/SunboyTPB/Micro-Course) | [Link](https://github.com/SunboyTPB/Micro-Course/releases) | 微型课程表致力于为学生们打造一个方便管理课表的平台，而微型课程表为用户提供简洁好用的课表管理软件。核心代码都是公开的，开发者们可以将代码下载并进行二次开发，如集成自己的账号平台，从而实现多账号登录和同步功能等。 | 07-09 |
 | [COPI](https://github.com/niuhuan/copi-ohos) | [Link](https://github.com/niuhuan/copi-ohos/releases) | 鸿蒙NEXT上的漫画客户端 | 06-23 |
+| [Audiobookshelf](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS) | [Link](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS/releases) | Audiobookshelf的鸿蒙Next客户端。<br/>当前仅支持有声书，不支持播客。 | 05-29 |
+| [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 使用 flutter 开发的基于自定义规则的番剧采集与在线观看程序。使用最多五行基于 Xpath 语法的选择器构建自己的规则。支持规则导入与规则分享。绝赞开发中 (～￣▽￣)～ | 05-29 |
+| [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | Liny 的浏览器为 HarmonyOS NEXT 而构建，旨在为各种性能水平的设备提供一个浏览器的轻量之选。 | 05-29 |
 | [Wake](https://github.com/azhuge233/Wake-HarmonyOS) | [Link](https://github.com/azhuge233/Wake-HarmonyOS/releases) | 简单的 Wake-on-LAN 应用程序，适用于 HarmonyOS NEXT | 05-27 |
 | [blbl](https://gitee.com/qinshah/blbl) | [Link](https://gitee.com/qinshah/blbl/releases) | 使用鸿蒙flutter3.22版本开发的blbl | 05-26 |
-| [Audiobookshelf](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS) | [Link](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS/releases) | Audiobookshelf的鸿蒙Next客户端。<br/>当前仅支持有声书，不支持播客。 | 05-24 |
-| [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 使用 flutter 开发的基于自定义规则的番剧采集与在线观看程序。使用最多五行基于 Xpath 语法的选择器构建自己的规则。支持规则导入与规则分享。绝赞开发中 (～￣▽￣)～ | 05-21 |
 | [轻阅读](https://github.com/autobcb/read) | [Link](https://github.com/autobcb/read/releases) | 一个全移动端可用的阅读app,不管是手机还是大屏设备都适配了ui，这个仓库是轻阅读app服务端源码，可以在全端同步进度。 | 05-14 |
 | [云享社](https://github.com/Edge-Music/Core) | [Link](https://github.com/Edge-Music/Core/releases) | 这是一个基于鸿蒙HarmonyOS Next API 15版本全新重构开发的网络音乐播放器统一UI容器。2.0版本带来了惊艳的UI设计和革命性的数据源架构，支持连接多个平台和私有数据源。我们致力于提供流畅的原生体验，同时保留并增强您喜爱的所有功能！ | 04-30 |
 | [localsend-ohos](https://github.com/Aloereed/localsend-ohos) | [Link](https://github.com/Aloereed/localsend-ohos/releases) | An open-source cross-platform alternative to AirDrop for HarmonyOS Next - Aloereed/localsend-ohos | 04-15 |
@@ -55,7 +56,6 @@
 | [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 一个支持免代理直连及查看动图的OpenHarmony平台第三方Pixiv flutter客户端 | 04-08 |
 | [moonlight-ohos](https://gitee.com/smdsbz/moonlight-ohos) | [Link](https://gitee.com/smdsbz/moonlight-ohos/releases) | 在 HarmonyOS Next 上的另一个 Sunshine 客户端实现。 | 04-03 |
 | [开源阅读](https://github.com/mgz0227/legado-Harmony) | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 开源阅读鸿蒙版仓库 | 03-11 |
-| [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | Liny 的浏览器为 HarmonyOS NEXT 而构建，旨在为各种性能水平的设备提供一个浏览器的轻量之选。 | 01-30 |
 | [aria2-ohos](https://github.com/SwimmingTiger/aria2-ohos) | [Link](https://github.com/SwimmingTiger/aria2-ohos/releases) | 鸿蒙PC上的命令行版 Aria2（aria2c） | 01-20 |
 | [FinVideo](https://github.com/OHPG/FinVideo/releases) | [Link](https://github.com/OHPG/FinVideo/releases) | Jellyfin视频客户端，适用于 HarmonyOS NEXT | 01-17 |
 | [RetroArch](https://github.com/likuai2010/auto-installer/releases) | [Link](https://github.com/likuai2010/auto-installer/releases/download/0.0.0/RetroArch-default-unsigned.hap) | RetroArch，原名为SSNES是libretro API前端的实现，也是libretro项目重要的项目之一，是自由软件，开放源码采用GNU通用公共许可证。它支持多种平台，包含许多游戏主机，也能透过第三方固件破解后安装在诸多游戏主机上。 | archived |
